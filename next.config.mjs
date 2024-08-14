@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  rewrites,
-  assetPrefix: 'https://courses.sparta-co.jp'
+  assetPrefix: '/courses'
 };
 
 export default nextConfig;
